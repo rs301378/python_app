@@ -1,0 +1,10 @@
+--- /home/commlab/Documents/Gateway_POC-test/OTA/python_app.py	2021-10-02 11:11:27.530508138 +0530
++++ /home/commlab/Documents/Gateway_POC-test/class_test.py	2021-09-30 12:23:28.610924892 +0530
+@@ -1,2 +1,5 @@
+ while True:
+-    print("Hello duniya")
+\ No newline at end of file
++    print("Hello duniya")
++    
++print("exit from lopp")
++print("New World start. Welcome to space.")
